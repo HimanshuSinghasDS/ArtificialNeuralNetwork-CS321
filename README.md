@@ -10,4 +10,5 @@ It consists of codes for following:
 3. Multilayer Neural Network for MNIST Dataset
 4. Deep Neural Network
 
+NOTE:- All the Dataset are available on Kaggle
 ---
